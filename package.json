@@ -3,7 +3,7 @@
     "author": "Ron Edgecomb II",
     "name": "bower-google-code-prettify",
     "description": "Bower package for latest Google Code Prettify release - https://code.google.com/p/google-code-prettify/",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "devDependencies": {
         "grunt": "~0.4.0",
         "grunt-contrib-copy": "~0.4.1",
